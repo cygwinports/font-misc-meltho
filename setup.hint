@@ -1,0 +1,5 @@
+category: X11
+requires: mkfontdir mkfontscale fontconfig xorg-encodings
+sdesc: "Xorg Meltho fonts"
+ldesc: "Xorg Meltho fonts"
+
